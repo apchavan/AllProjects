@@ -1,5 +1,6 @@
 # Projects:
 
+- ***[File autoplacer](https://github.com/apchavan/File-autoplacer)*** (Cross-platform desktop automation app to keep "Downloads" directory clean & managed)
 - ***[ULMFiT model](https://github.com/apchavan/ULMFiT_Twitter)*** (Sentiment analysis ULMFiT model for Twitter US Airlines)
 - ***[Amigos](https://github.com/apchavan/amigos)*** (Social networking platform)
 - ***[Horologium](https://github.com/apchavan/horologium)*** (Integration of clock and weather app)
