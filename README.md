@@ -1,7 +1,7 @@
 # Projects:
 
 - ***[File autoplacer](https://github.com/apchavan/File-autoplacer)*** (Cross-platform desktop automation app to keep "Downloads" directory clean & managed)
-- ***[ULMFiT model](https://github.com/apchavan/ULMFiT_Twitter)*** (Sentiment analysis ULMFiT model for Twitter US Airlines)
-- ***[Amigos](https://github.com/apchavan/amigos)*** (Social networking platform)
+- ***[ULMFiT model](https://github.com/apchavan/ULMFiT_Twitter)*** (Sentiment analysis ULMFiT machine learning model for Twitter US Airlines)
+- ***[Amigos](https://github.com/apchavan/amigos)*** (Social networking platform using .NET framework 4.6)
 - ***[Horologium](https://github.com/apchavan/horologium)*** (Integration of clock and weather app)
 - ***[Steganography](https://github.com/apchavan/steganography)*** (Simple command line project developed in C++ for encryption and decryption of text in image using password)
