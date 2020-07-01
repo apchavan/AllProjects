@@ -5,5 +5,5 @@
 - ***[Amigos](https://github.com/apchavan/amigos)*** (Social networking platform using .NET framework 4.6)
 - ***[Horologium](https://github.com/apchavan/horologium)*** (A simple android application that integrates features of clock and weather apps)
 - ***[Steganography](https://github.com/apchavan/steganography)*** (Simple command line project developed in C++ for encryption and decryption of text in image using password)
-- ***[Virtual self driving car](https://github.com/apchavan/virtual-self-driving-car)*** (An educational reinforcement learning mini-project)
+- ***[Virtual self driving car](https://github.com/apchavan/virtual-self-driving-car)*** (Virtual self driving car with reinforcement learning using Kivy & PyTorch framework)
 
