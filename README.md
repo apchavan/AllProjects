@@ -1,6 +1,6 @@
 # Projects:
 
-- ***[InfoPuller](https://github.com/apchavan/InfoPuller)*** Research project to understand internals of Windows OS with some visible and hidden (or malicious) features.
+- ***[InfoPuller](https://github.com/apchavan/InfoPuller)*** Research project to understand internals of Windows OS with some visible and hidden (malicious) features.
 - ***[Snake-game](https://github.com/apchavan/ai-pygame-snake)*** Simple snake game 🐍 using _pygame_ library to **play using Reinforcement Learning**.
 - ***[Virtual self driving car](https://github.com/apchavan/virtual-self-driving-car)*** (Virtual self driving car with reinforcement learning using _Kivy_ & _PyTorch_ frameworks)
 - ***[File autoplacer](https://github.com/apchavan/File-autoplacer)*** (Cross-platform desktop automation app to keep "Downloads" directory clean & managed)
