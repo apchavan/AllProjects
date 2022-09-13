@@ -1,6 +1,6 @@
 # Projects:
 
-- ***[Development & Demo of Windows Kernel Driver](https://github.com/apchavan/development-demo-Windows-KMDF)*** _Amey_KMDF_ Kernel Driver for Windows OS.
+- ***[Development & Demo of Windows Kernel Driver](https://github.com/apchavan/development-demo-Windows-KMDF)*** Kernel Driver (named *Amey_KMDF*) for Windows OS.
 - ***[Crunch WinS](https://github.com/apchavan/Crunch-WinS)*** Crunch (or extract) the most Windows logon sessions.
 - ***[InfoPuller](https://github.com/apchavan/InfoPuller)*** Research project to understand internals of Windows OS using core C libraries.
 - ***[Snake-game](https://github.com/apchavan/ai-pygame-snake)*** Simple snake game bot 🐍 with Reinforcement Learning using _pygame_ & _TensorFlow/Keras_.
